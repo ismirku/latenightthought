@@ -11,9 +11,9 @@
         "restricted": true
     },
     "autosave": true,
-    "background": false,
-    "colors": true,
-    "title": true,
+    "background": true,
+    "colors": false,
+    "title": false,
     "randomx": {
         "init": -1,
         "init-avx2": -1,
